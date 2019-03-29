@@ -1,0 +1,40 @@
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.exe.config
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.exe
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.pdb
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.Form1.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.LoginPage.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.Properties.Resources.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.GenerateResource.cache
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.CoreCompileInputs.cache
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.exe
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.pdb
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\Npgsql.dll
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\Npgsql.pdb
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\bin\Debug\Npgsql.xml
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.CopyComplete
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.DataGridViewPage.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingRoutePage.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingStopPage.resources
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csprojAssemblyReference.cache
+C:\Users\Sonechka\source\repos\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingTransportPage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.exe.config
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.exe
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\SocialTransport_lab.pdb
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\Npgsql.pdb
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\bin\Debug\Npgsql.xml
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csprojAssemblyReference.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingRoutePage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingStopPage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingTransportPage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.AddingTransportToRoutePage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.DataGridViewPage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.Form1.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.LoginPage.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.Properties.Resources.resources
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.GenerateResource.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.CoreCompileInputs.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.csproj.CopyComplete
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.exe
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\РСУБД\SocialTransport_lab\SocialTransport_lab\obj\Debug\SocialTransport_lab.pdb
